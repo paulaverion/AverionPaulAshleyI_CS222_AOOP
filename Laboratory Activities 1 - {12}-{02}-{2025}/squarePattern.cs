@@ -9,7 +9,7 @@ namespace squarePattern
             int n, y;
             Console.Write("Enter n: ");
             n = int.Parse(Console.ReadLine());
-            Console.Write("Enter y; ");
+            Console.Write("Enter y: ");
             y = int.Parse(Console.ReadLine());
             
             for(int i = 1; i <= n; i++)
